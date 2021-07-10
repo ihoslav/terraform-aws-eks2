@@ -1,1 +1,2 @@
-# terraform-aws-eks2
+# terraform-aws-eks
+Creates Elastic Kubernetes Service cluster on AWS
